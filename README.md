@@ -1,4 +1,5 @@
-# Hi, I'm Fahim Sahariar Alvi 👋  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi, I'm Fahim Sahariar Alvi 👋  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahariaralvi&color=blue)
 
